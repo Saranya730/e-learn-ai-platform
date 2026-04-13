@@ -1,0 +1,3 @@
+password -- O6cGMweyqHnwtMpN 
+username -- saranyaa730_db_user
+connection string -- mongodb+srv://saranyaa730_db_user:O6cGMweyqHnwtMpN@cluster0.tnwhe79.mongodb.net/?appName=Cluster0
